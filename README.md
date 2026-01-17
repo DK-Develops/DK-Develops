@@ -9,4 +9,4 @@ I have experience in Information Technology and basic programming through school
 - Web development fundamentals (HTML, CSS)
 - Windows and Linux familiarity
 
-I use GitHub to keep track of projects and learning work.
+You can see some of my learning projects here I made.
