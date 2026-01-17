@@ -11,7 +11,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 ### Highlights
 - 2024 SwiftUI Hackathon Winner — *HydroFact App*
 
-### Want to Learn
+### Looking into
 - Java
 - C / C++
 
