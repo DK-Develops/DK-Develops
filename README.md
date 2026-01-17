@@ -4,7 +4,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 
 ### Skills
 - IT Operations
-- Python (basic understanding)
+- Python (intermediate understanding)
 - Web development fundamentals (HTML, CSS, JavaScript)
 - Windows and Linux familiarity
 - Experience with Raspberry Pi
