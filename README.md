@@ -1,4 +1,3 @@
-insults.
 
 ## Hi, I'm Darsh
 
