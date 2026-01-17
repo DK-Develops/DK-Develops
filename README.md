@@ -1,6 +1,6 @@
 ## Hi, I'm Darsh
 
-I’m a hardworking and dedicated student with experience in Information Technology and introductory programming through school and hands-on projects. I plan to attend college for Electrical and Computer Engineering in the coming year.
+I’m a hardworking and dedicated student with experience in Information Technology and programming through different activities and hands-on projects. I plan to attend college for Electrical and Computer Engineering in the coming year.
 
 ### Skills
 - IT and system basics
