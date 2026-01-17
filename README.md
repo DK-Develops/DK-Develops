@@ -15,6 +15,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 ### Looking Into
 - Java
 - C / C++
+- IT Projects
 
 ### Currently Working On
 - Setting up and configuring a virtual homelab with Windows Server, Windows 11, and Kali Linux VMs
