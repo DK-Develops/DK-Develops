@@ -20,5 +20,6 @@ I’m a hardworking and dedicated student with experience in Information Technol
 ### Currently Working On
 - Setting up and configuring a virtual homelab with Windows Server, Windows 11, and Kali Linux VMs
 - Learning more programming/scripting
-
+- Exploring THM
+  
 You can find some of my learning projects here on GitHub.
