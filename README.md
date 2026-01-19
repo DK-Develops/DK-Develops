@@ -14,7 +14,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 
 ### Looking Into
 - Java
-- C / C++
+- C
 - IT Projects
 
 ### Currently Working On
