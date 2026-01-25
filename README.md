@@ -1,6 +1,6 @@
 ## Hi, I'm Darsh
 
-I’m a hardworking and dedicated student with experience in Information Technology and beginner-mid programmer through hands-on projects and coursework. I plan to attend college for Electrical and Computer Engineering, with interests in hardware, networking, cybersecurity, and data, as well as pursuing certifications such as CompTIA Network+ and Security+.
+I’m a hardworking and dedicated student with experience in Information Technology and beginner-mid programmer with hands-on projects and coursework. I plan to attend college for Electrical and Computer Engineering, with interests in hardware, networking, cybersecurity, and data, as well as pursuing certifications such as CompTIA Network+ and Security+.
 
 ### Skills
 - IT Operations
