@@ -8,7 +8,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 - Web development fundamentals (HTML, CSS, JavaScript)
 - Windows and Linux familiarity
 - Experience with Raspberry Pi
-- Learning C (beginner)
+- Learning C/C++ with Arduino (beginner)
 
 ### Highlights
 - 2024 SwiftUI Hackathon Winner — *HydroFact App*
