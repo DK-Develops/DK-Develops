@@ -18,7 +18,7 @@ I’m a hardworking and dedicated student with experience in Information Technol
 - IT Projects
 
 ### Currently Working On
-- Setting up and configuring a virtual homelab with Windows Server, Windows 11, and Kali Linux VMs
+- Tech and engineering research and activities
 - Learning more programming/scripting to prepare for college
 - Learning Arduino/Exploring engineering, IT, cybersecurity/networking
   
