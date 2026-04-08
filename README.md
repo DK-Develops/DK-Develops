@@ -1,7 +1,5 @@
 ## Hi, I'm Darsh
 
-I’m a hardworking and dedicated student with experience in Information Technology and beginner-mid programmer with hands-on projects and coursework. I plan to attend college for Electrical and Computer Engineering, with interests in hardware, networking, cybersecurity, and data, as well as pursuing certifications such as CompTIA Network+ and Security+.
-
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
@@ -11,11 +9,6 @@ I’m a hardworking and dedicated student with experience in Information Technol
 
 ### Highlights
 - 2024 SwiftUI Hackathon Winner — *HydroFact App*
-
-### Looking Into
-- Java
-- C
-- IT Projects
 
 ### Currently Working On
 - Tech and engineering research and activities
