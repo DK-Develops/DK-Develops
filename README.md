@@ -1,5 +1,5 @@
 ## Hi, I'm Darsh
-
+Attending college to study Computer Engineering
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
