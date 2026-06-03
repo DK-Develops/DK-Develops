@@ -1,5 +1,5 @@
 ## Hi, I'm Darsh
-Student attending college to study Electrical/Computer Engineering
+Incoming Computer Engineering Student @ UTOLEDO
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
