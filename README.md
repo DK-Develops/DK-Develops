@@ -1,5 +1,5 @@
 ## Hi, I'm Darsh
-Incoming Computer Engineering Student @ UTOLEDO
+Incoming Computer/Electrical Engineering Student @ UTOLEDO
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
