@@ -1,5 +1,5 @@
 ## Hi, I'm Darsh
-Computer Engineering @ UTOLEDO
+Electrical Engineering and Computer Science @ UTOLEDO
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
