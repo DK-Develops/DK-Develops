@@ -1,5 +1,6 @@
 ## Hi, I'm Darsh
 Electrical Engineering and Computer Science @ UTOLEDO
+
 IT Consultant Level 2 @ UToledo ECC
 ### Skills
 - IT Operations
