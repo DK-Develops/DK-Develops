@@ -1,5 +1,6 @@
 ## Hi, I'm Darsh
 Electrical Engineering and Computer Science @ UTOLEDO
+IT Consultant Level 2 @ UToledo ECC
 ### Skills
 - IT Operations
 - Python (intermediate understanding)
@@ -12,7 +13,7 @@ Electrical Engineering and Computer Science @ UTOLEDO
 
 ### Currently Working On
 - Tech and engineering research and activities
-- Learning more programming/scripting to prepare for college
-- Learning Arduino/Exploring engineering, IT, cybersecurity/networking
+- Getting more proficient at Python, Java, Arduino
+- Learning Arduino/Exploring engineering, IT, cybersecurity
   
 You can find some of my learning projects here on GitHub.
